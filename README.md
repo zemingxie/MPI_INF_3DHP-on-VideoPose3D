@@ -3,6 +3,11 @@
 ## Instruction
 Copy paste files to VideoPose3D directory.
 The rest follows the same procedure as VideoPose3D
+### Running
+To Achieve the same result on the picture below, you can run the following code:
+```bash
+python run.py -d mpi_inf_3dhp -k gt -str S1,S2,S3,S4,S5,S6,S7,S8 -ste TS1,TS2,TS3,TS4,TS5,TS6 --export-training-curves -b 256 -e 200 -lrd 0.98
+```
 
 ## Result
 <p align="left"> <img src="./checkpoint/loss_3d.png" width="75%"> </p>
