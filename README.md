@@ -4,7 +4,7 @@
 Copy paste files to VideoPose3D directory.
 The rest follows the same procedure as VideoPose3D
 ### Setup dataset
-Go to [mpi_inf_3dhp website](http://vcai.mpi-inf.mpg.de/3dhp-dataset/) and follow the instruction to run the dataset
+Go to [mpi_inf_3dhp website](http://vcai.mpi-inf.mpg.de/3dhp-dataset/) and follow the instruction to download the dataset, adn run the following
 ```bash
 python prepare_data_mpi_inf_3dhp.py --from-source path/to/mpi_inf_3dhp/dataset
 ```
