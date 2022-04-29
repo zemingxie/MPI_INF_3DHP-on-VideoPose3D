@@ -4,5 +4,8 @@
 Copy paste files to VideoPose3D directory.
 The rest follows the same procedure as VideoPose3D
 
+## Result
+<p align="left"> <img src="./checkpoint/loss_3d.png" width="75%"> </p>
+
 ## Ackownledge
 Part of my code is borrowed from [VideoPose3D](https://github.com/facebookresearch/VideoPose3D). I thank the authors for releasing the codes.
